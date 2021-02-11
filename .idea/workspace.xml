@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ee8418f-a4f2-4bbb-bd10-f16169879067" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o9BwcW4FplpLL5OlT3a2jqGq1l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ee8418f-a4f2-4bbb-bd10-f16169879067" name="Default Changelist" comment="" />
+      <created>1612689165713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612689165713</updated>
+      <workItem from="1612689166812" duration="2064000" />
+      <workItem from="1612691329487" duration="1020000" />
+      <workItem from="1612863962280" duration="7000" />
+      <workItem from="1612894235795" duration="1453000" />
+      <workItem from="1612896403411" duration="1781000" />
+      <workItem from="1612898210488" duration="1789000" />
+      <workItem from="1612900028451" duration="1793000" />
+      <workItem from="1612901847289" duration="1781000" />
+      <workItem from="1612903653581" duration="999000" />
+      <workItem from="1612952553332" duration="400000" />
+      <workItem from="1612972939834" duration="1758000" />
+      <workItem from="1612974816346" duration="1996000" />
+      <workItem from="1612976845214" duration="1796000" />
+      <workItem from="1612978664654" duration="1944000" />
+      <workItem from="1612980633070" duration="2101000" />
+      <workItem from="1612982761420" duration="1744000" />
+      <workItem from="1612984568218" duration="413000" />
+      <workItem from="1613064412544" duration="1761000" />
+      <workItem from="1613066252527" duration="1514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="259" key="FileChooserDialogImpl" timestamp="1612952638463">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="740" y="259" key="FileChooserDialogImpl/0.0.1920.1034@0.0.1920.1034" timestamp="1612952638463" />
+    <state x="635" y="206" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1613067112171">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="635" y="206" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1034@0.0.1920.1034" timestamp="1613067112171" />
+    <state x="616" y="239" key="run.anything.popup" timestamp="1612984267246">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="616" y="239" key="run.anything.popup/0.0.1920.1034@0.0.1920.1034" timestamp="1612984267246" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1612979235909">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1034@0.0.1920.1034" timestamp="1612979235909" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+{
+  "name": "wallpaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyper-hronoz/ethereum_wallpapers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyper-hronoz/ethereum_wallpapers/issues"
+  },
+  "homepage": "https://github.com/hyper-hronoz/ethereum_wallpapers#readme"
+}
